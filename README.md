@@ -10,4 +10,13 @@
 # 👨‍💻 The man you call when AC's screwed...
 <sup><sub>ps: never touched one, but I can write a python script to call support...</sub></sup>
 
+Apart from being able to walk, talk 'n write a readme, some of my distinctions are:
+* Student at CPS with Systems Analysis & Development technician degree.
+* Studying towards:
+  - Data Engineer & Architect
+  - Professional in Azure Cloud Computing
+  - <sup>By IGTI XP Educação</sup>
+
+
+
 
