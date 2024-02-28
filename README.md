@@ -6,6 +6,9 @@
 
 * iruam p
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/iruam)
+</div>
 
 # 👨‍💻 The man you call when AC's screwed...
 <sup><sub>ps: never touched one, but I can write a python script to call support...</sub></sup>
