@@ -9,7 +9,11 @@
 # 👨‍💻 The man you call when AC's screwed...
 <sup><sub>ps: never touched one, but I can write a python script to call support...</sub></sup>
 
-Apart from being able to walk, talk 'n write a readme, some of my distinctions are:
+👋Hello there! 
+
+✌️My name is Iruam! I am from Brazil🇧🇷 and a huge tech enthusiast with a passion for the study of this matter and keeping up to date.
+
+Some of my experience & life includes:
 * Student at CPS with Systems Analysis & Development technician degree.
 * Studying towards:
   - Professional in Data Engineering & Architecture
