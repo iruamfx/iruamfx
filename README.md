@@ -9,8 +9,6 @@
 # 👨‍💻 The man you call when AC's screwed...
 <sup><sub>ps: never touched one, but I can write a python script to call support...</sub></sup>
 
-👋Hello there! 
-
 ✌️My name is Iruam! I am from Brazil🇧🇷 and a huge tech enthusiast with a passion for the study of this matter and keeping up to date.
 
 Some of my experience & life includes:
