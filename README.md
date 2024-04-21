@@ -1,10 +1,8 @@
 <picture float="left">
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iruamfx/iruamfx/main/iru.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iruamfx/iruamfx/main/iru.gif">
- <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/iruamfx/iruamfx/main/iru.gif">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/iruamfx/iruamfx/blob/main/itbuilt.gif" height=300>
 </picture>
 
-* iruam p
+> Happiness is not the absence of problems, it's the hability to compile your code...
 
 # ✌️Howdy!
 
